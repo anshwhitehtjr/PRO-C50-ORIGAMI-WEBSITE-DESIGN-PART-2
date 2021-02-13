@@ -1,0 +1,26 @@
+/* *{
+    border: groove;
+} */
+
+.header{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.grid img{
+    border: 2px groove black;
+    border-radius: 50px;
+    flex-wrap: wrap;
+}
+.origami{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    flex-wrap: wrap;
+}
+
+.grid{
+    justify-content: space-between;
+}
